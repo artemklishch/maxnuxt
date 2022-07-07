@@ -1,0 +1,1 @@
+export const BASE_URL = "https://maxreact1-default-rtdb.firebaseio.com"
